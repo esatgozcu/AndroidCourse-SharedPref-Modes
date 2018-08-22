@@ -1,0 +1,23 @@
+MODE_PRİVATE
+------------
+
+Oluşturulacak veritabanın verilerine sadece oluşturan uygulama erişebilir, başka uygulamalar erişemez.
+Uygulama verileri açısından en güvenli ve tavsiye edilen modtur.
+
+MODE_WORLD_READABLE
+-------------------
+
+Verilerin tutulduğu dosyayı cihazdaki tüm uygulamalar okuyabilir.
+
+MODE_WORLD_WRITEABLE
+--------------------
+
+Verilerin tutulduğu dosyayı cihazdaki tüm uygulamalar okuyabilir ve yazabilir.
+
+MODE_APPEND 
+-----------
+
+Yeni kaydedilen verileri mevcut verilen üzerine yazar.
+
+
+
